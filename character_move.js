@@ -4,6 +4,7 @@ Hi, i just want to inform that debugging happend but with the help of AI
 some small errors such as extra spacing, wrong calling functions and other things 
 these are help to fix my code also line 186 - 189 i got help from my frined
 he explain why we use it 
+https://claude.ai/chat/bc970eb3-aed4-49e2-a21f-490dcb511e9d
 thanks a lot 
 */
 
